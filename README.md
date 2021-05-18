@@ -6,3 +6,4 @@ Forest and NonForest directories are the ones used for cross-validation in the t
 
 deforeStable_0.1.0.pdf contains the manual for the package.
 
+Finally, the deforeStable directory contains the package.
