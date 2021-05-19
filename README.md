@@ -6,4 +6,4 @@ Forest and NonForest directories are the ones used for cross-validation in the t
 
 deforeStable_0.1.0.pdf contains the manual for the package.
 
-Finally, the deforeStable directory contains the package. To use the package download the files in this repository, open the deforeStable project in Studio, go to build and press Install and Restart. Now you should be able to run the example code given that you have the other packages required for the package.
+Finally, the deforeStable directory contains the package. To use the package download the files in this repository, open the deforeStable project in R Studio, go to build and press Install and Restart. Now you should be able to run the example code given that you have the other packages required for the package.
